@@ -1,21 +1,3 @@
-# The following vendors attended the FEMA S22 Zero Trust Technology Exchange:
+# The following vendors attended the FEMA S23 Improve Digital Partnership/Optimize IT Workforce Technology Exchange:
 
-- AvePoint Public Sector, Inc.
-- Carrollton Enterprise Services, LLC
-- CGI Federal
-- Dynanet Corporation
-- G3 Innovative Solutions, LLC
-- General Dynamics Information Technology, Inc.
-- GuidePoint Security
-- Illumio, Inc.
-- Immuta Inc.
-- Intellect Solutions, LLC
-- Maximus
-- Sepio Systems, Inc.
-- SHR Consulting Group
-- SMS Data Products Group, Inc.
-- Solvitar Systems, LLC
-- Spry Squared
-- Sumo Logic
-- Synack, Inc.
-- Zimperium, Inc
+- Check back here after the conclusion of the Improve Digital Partnership/Optimize IT Workforce Webinar for a list of the companies that attended!!
