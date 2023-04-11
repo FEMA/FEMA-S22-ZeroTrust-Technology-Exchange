@@ -1,10 +1,10 @@
-# FEMA OCTO Virtual Improve Digital Partnership/Optimize IT WorkforceZero Trust Technology Exchange - Spring 2023
+# FEMA OCTO Virtual Zero Trust Technology Exchange - Spring 2022
 
-Welcome to FEMA's Office of the Chief Technology Officer repository for the Spring 2023 Virtual Technology Exchange focusing on Improve Digital Partnership/Optimize IT Workforce!
+Welcome to FEMA's Office of the Chief Technology Officer repository for the Spring 2022 Virtual Technology Exchange focusing on Zero Trust!
 
 ## Participant Feedback & Contributions
 
-For the participants in the FEMA-S22 Technology Exchange that have files, white papers, suggestions, solution samples, demos, code, or other technological responses you wish to be considered, create a repository under your own GitHub account and **tag it with the "fema-s23" or "fema-s23-Improve-Digital-Partnership-Optimize-IT-Workforce" topic**. See the GitHub document [Classifying Your Repository with Topics](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/classifying-your-repository-with-topics). This will facilitate monitoring of the social conversation around the “fema-s23” GitHub topic tag following the event.
+For the participants in the FEMA-S22 Technology Exchange that have files, white papers, suggestions, solution samples, demos, code, or other technological responses you wish to be considered, create a repository under your own GitHub account and **tag it with the "fema-s22" or "fema-s22-zerotrust" topic**. See the GitHub document [Classifying Your Repository with Topics](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/classifying-your-repository-with-topics). This will facilitate monitoring of the social conversation around the “fema-f22” GitHub topic tag following the event.
 
 
 Enable the [GitHub Discussions](https://docs.github.com/en/discussions/quickstart) feature within your repository to promote conversations around solutions or posted material. Only general discussions should occur within this FEMA repository.
